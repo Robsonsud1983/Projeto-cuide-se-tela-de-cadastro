@@ -1,2 +1,2 @@
-# Projeto-cuide-se-tela-de-cadastro
-Telas de cadastro-projeto cuide-se
+# Tela-de-cadastro-cuide-se
+Tela de cadastro para empresa
